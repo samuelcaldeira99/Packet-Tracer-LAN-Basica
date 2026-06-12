@@ -97,22 +97,22 @@ Documentação prática de uma atividade de **configuração de rede local (LAN)
 ## 📸 Screenshots
 
 ### Topologia Completa
-![Topologia](./screenshots/topologia-completa.png)
+(./screenshots/topologia-completa.png)
 
 ### Ping - Falha
-![Ping Falhou](./screenshots/01-ping-falhou.png)
+(./screenshots/01-ping-falhou.png)
 
 ### Ping - Sucesso
-![Ping Sucesso](./screenshots/02-ping-sucesso.png)
+(./screenshots/02-ping-sucesso.png)
 
 ### Navegador Web
-![Navegador Web](./screenshots/03-navegador-web.png)
+(./screenshots/03-navegador-web.png)
 
 ### ipconfig
-![ipconfig](./screenshots/04-ipconfig.png)
+(./screenshots/04-ipconfig.png)
 
 ### tracert
-![tracert](./screenshots/05-tracert.png)
+(./screenshots/05-tracert.png)
 ---
 
 ## 🔧 Requisitos
