@@ -99,7 +99,7 @@ Documentação prática de uma atividade de **configuração de rede local (LAN)
 ### Topologia Completa
 ![Topologia](./screenshots/topologia-completa.png)
 
-### Ping - Falha
+### Teste de Ping - Falha Inicial
 ![Ping Falhou](./screenshots/01-ping-falhou.png)
 
 ### Ping - Sucesso
